@@ -1,2 +1,2 @@
-# lawsdataframeanalysis
-analysis of socially-significant laws passed by Russian Parliament 
+# lawsdataframe
+датафрейм с социально-значимыми законами, принятами Государственной Думой VII созыва 
